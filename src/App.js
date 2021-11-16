@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Greeting from "./components/greeting";
+import Greeting from "./components/Greeting";
 import { Provider } from 'react-redux';
 import configureStore from '../src/redux/configureStore';
 
